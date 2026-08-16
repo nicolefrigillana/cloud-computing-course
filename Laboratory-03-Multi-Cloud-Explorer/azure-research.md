@@ -29,3 +29,4 @@ Unified portal at **portal.azure.com** — clean interface with Azure Resource M
 - Hybrid cloud environments bridging on-premises datacenters via Azure Stack and Azure Arc
 - Extending Microsoft 365 and line-of-business applications to the cloud
 
+<img width="960" height="518" alt="Screenshot 2026-08-16 153430" src="https://github.com/user-attachments/assets/4d6cddcb-1e9b-45c4-b439-4138b5998792" />
