@@ -1,32 +1,32 @@
 # Amazon Web Services (AWS) Research
 
 ## Brief Overview
-Amazon Web Services (AWS) ay ang pinakamalawak na ginagamit na cloud platform sa buong mundo, inilunsad noong 2006 ng Amazon. Nag-aalok ito ng mahigit 200+ serbisyo kabilang ang compute, storage, database, networking, at artificial intelligence. Mula sa maliliit na negosyo hanggang sa malalaking kumpanya, AWS ang pinakamalaking bahagi ng cloud market.
+Amazon Web Services (AWS) is the world’s most widely adopted cloud platform, launched in 2006 by Amazon. It offers over 200 fully featured services spanning compute, storage, databases, analytics, networking, artificial intelligence, and security. AWS serves millions of customers — from startups to Fortune 500 enterprises — and holds the largest global cloud market share.
 
 ## Global Infrastructure
-- 32+ Rehiyon sa buong mundo
-- 102+ Availability Zones
-- 400+ Edge Locations para sa mabilis na pag-access
-- Serbisyo sa mahigit 200 bansa
+- **Regions:** 32+ geographic regions worldwide
+- **Availability Zones:** 102+ isolated Availability Zones
+- **Edge Locations:** 400+ points of presence for low-latency content delivery
+- Coverage across **200+ countries** with the broadest regional footprint in the industry.
 
 ## Cloud Management Console
-Makikita sa console.aws.amazon.com — dito mo makikita at mapapamahalaan ang lahat ng iyong serbisyo sa isang pahina. Mayroon ding command line at iba pang paraan para makakonekta.
+Accessible at **console.aws.amazon.com** — a unified web-based interface offering centralized access to all services, security controls, billing dashboards, and resource monitoring. Also supports CLI, SDKs, and Infrastructure as Code through AWS CloudFormation.
 
-## Apat na Pangunahing Serbisyo
-1. **Amazon EC2** — Mga virtual server na maaaring palakihin o bawasan ayon sa pangangailangan
-2. **Amazon S3** — Imbakan ng data na napakatibay at napakalawak na kakayahang mag-imbak
-3. **Amazon VPC** — Sariling pribadong network sa cloud para sa seguridad
-4. **Amazon RDS** — Pinamahalaang database para sa MySQL, PostgreSQL, SQL Server, at iba pa
+## Four Core Services
+1. **Amazon EC2 (Elastic Compute Cloud)** — Scalable virtual servers in the cloud; the foundational compute service for running applications.
+2. **Amazon S3 (Simple Storage Service)** — Industry-standard object storage designed for 99.999999999% (11 nines) durability.
+3. **Amazon VPC** — Isolated virtual network environment to securely launch and configure resources.
+4. **Amazon RDS** — Fully managed relational database service supporting PostgreSQL, MySQL, SQL Server, Oracle, and MariaDB.
 
-## Tatlong Kalakasan
-1. Pinakamaraming uri ng serbisyo — halos lahat ng kailanganin mo ay mayroon na
-2. Subok na katatagan at mabilis — ginagamit mismo ng Amazon.com
-3. May libreng antas (Free Tier) at nababagay na presyo — ang babayaran mo lang ay ang ginamit mo
+## Three Advantages
+1. **Widest service catalog** — unmatched depth and maturity; supports virtually every cloud workload and use case.
+2. **Proven reliability & global scale** — decades of operational experience powering Amazon.com itself.
+3. **Flexible pricing & largest ecosystem** — extensive Free Tier, pay-as-you-go, reserved pricing, and the broadest partner/marketplace ecosystem.
 
-## Karaniwang Ginagamit Para
-- Mga website at aplikasyon na kailangang lumawak nang mabilis
-- Pag-imbak at pagsusuri ng napakaraming datos
-- Mga aplikasyon na kailangang laging gumagana kahit may problema sa ibang lugar
-- Mga negosyo na kailangan ng maraming uri ng serbisyo sa iisang lugar
+## Typical Enterprise Use Cases
+- Global web applications with auto-scaling (e.g., Netflix, Airbnb)
+- Enterprise SaaS products and multi-tenant platforms
+- Big data pipelines, data lakes, and AI/ML workloads
+- Regulated industries requiring broad compliance certifications (HIPAA, PCI, FedRAMP)
+- Disaster recovery and hybrid cloud architectures
 
-> 📸 Ilagay dito ang screenshot ng AWS homepage o console
