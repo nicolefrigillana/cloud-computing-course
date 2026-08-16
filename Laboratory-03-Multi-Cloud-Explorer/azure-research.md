@@ -1,31 +1,31 @@
 # Microsoft Azure Research
 
 ## Brief Overview
-Ang Microsoft Azure ay inilunsad noong 2010. Ito ang pinakamagandang cloud para sa mga gumagamit na ng Windows, Microsoft 365, at iba pang produkto ng Microsoft. Madaling ilipat ang mga umiiral na programa at datos patungo sa Azure dahil magkakasama sila.
+Microsoft Azure, launched in 2010, is the second-largest public cloud platform and the preferred choice for organizations already using Microsoft products. It delivers IaaS, PaaS, and SaaS with seamless integration into Windows Server, Active Directory, Microsoft 365, and Visual Studio ecosystems.
 
 ## Global Infrastructure
-- 60+ Rehiyon — mas marami kaysa sa iba
-- 110+ Availability Zones
-- Serbisyo sa 245+ bansa
+- **Regions:** 60+ announced regions worldwide
+- **Availability Zones:** 110+ across the globe
+- Broad coverage across **245+ countries**, with strong presence in North America, Europe, and Asia-Pacific.
 
 ## Cloud Management Console
-Makikita sa portal.azure.com — malinis at madaling intindihin ang ayos. Magandang kontrolin ang seguridad at mga gumagamit lalo na kung ginagamit na ang Microsoft Entra ID.
+Unified portal at **portal.azure.com** — clean interface with Azure Resource Manager for consistent policy, access control, and organization across all resources. Deep integration with Microsoft Entra ID for identity management.
 
-## Apat na Pangunahing Serbisyo
-1. **Azure Virtual Machines** — Mga virtual server na gumagana sa Windows o Linux
-2. **Azure Blob Storage** — Imbakan para sa malalaking file at datos
-3. **Microsoft Entra ID** — Pamamahala ng mga gumagamit at pahintulot
-4. **Azure SQL Database** — Pinamahalaang database na katugma ng SQL Server
+## Four Core Services
+1. **Azure Virtual Machines** — Windows & Linux VMs with broad OS support and seamless hybrid extension.
+2. **Azure Blob Storage** — Scalable object storage for unstructured data, including data lakes and archival tiers.
+3. **Microsoft Entra ID** — Comprehensive cloud identity and access management (formerly Azure AD).
+4. **Azure SQL Database** — Fully managed relational database built on SQL Server, with built-in intelligence and high availability.
 
-## Tatlong Kalakasan
-1. Napakadaling isama sa Windows, Microsoft 365, at Active Directory — halos walang babaguhin
-2. Subok na katatagan at angkop sa mga paaralan, pamahalaan, at malalaking kumpanya
-3. May direktang pagkakaisa sa mga modelo ng AI tulad ng GPT-4
+## Three Advantages
+1. **Seamless Microsoft ecosystem integration** — Windows, Active Directory, Microsoft 365, .NET, and Visual Studio work natively with minimal rework.
+2. **Strong hybrid & enterprise readiness** — Azure Arc extends management to on-premises and multi-cloud environments; trusted in regulated industries.
+3. **Built-in AI capabilities** — Direct access to Azure OpenAI Service and Azure Machine Learning within a secure tenant environment.
 
-## Karaniwang Ginagamit Para
-- Mga paaralan at kumpanya na gumagamit na ng Microsoft
-- Paglilipat ng mga serbisyo mula sa sariling server patungo sa cloud
-- Mga aplikasyon na binuo gamit ang .NET at SQL Server
-- Mga organisasyon na kailangan ng seguridad at pagsunod sa pamantayan
+## Typical Enterprise Use Cases
+- Organizations migrating Windows Server, Active Directory, and .NET workloads
+- Universities, government, and healthcare institutions with existing Microsoft licensing
+- Enterprise AI initiatives using Azure OpenAI and Azure Machine Learning
+- Hybrid cloud environments bridging on-premises datacenters via Azure Stack and Azure Arc
+- Extending Microsoft 365 and line-of-business applications to the cloud
 
-> 📸 Ilagay dito ang screenshot ng Azure homepage o portal
