@@ -30,3 +30,5 @@ Accessible at **console.aws.amazon.com** — a unified web-based interface offer
 - Regulated industries requiring broad compliance certifications (HIPAA, PCI, FedRAMP)
 - Disaster recovery and hybrid cloud architectures
 
+<img width="960" height="497" alt="Screenshot 2026-08-16 153058" src="https://github.com/user-attachments/assets/a6b21f81-31e3-478d-917e-81f96b6673f0" />
+
