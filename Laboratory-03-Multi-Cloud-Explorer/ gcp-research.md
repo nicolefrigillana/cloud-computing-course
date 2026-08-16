@@ -28,5 +28,6 @@ Accessible at **console.cloud.google.com** — clean, modern, and developer-frie
 - Cloud-native SaaS and modern applications built with containers and microservices
 - Media and content serving global audiences on YouTube-scale proven infrastructure
 - Startups and growth-stage companies leveraging the Free Tier and startup programs
+<img width="960" height="508" alt="Screenshot 2026-08-16 153626" src="https://github.com/user-attachments/assets/ca5a5a8d-4a6a-4d81-bcc6-4a1d38a0765d" />
 
 
